@@ -8,7 +8,6 @@ Hey there! I'm a full-stack developer who likes building fast, clean, and useful
 > **Quick Links & Contact**
 > 
 > [![Website](https://img.shields.io/badge/Website-julianmaggio.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.julianmaggio.com)
-> [![GitHub](https://img.shields.io/badge/GitHub-julianmaggio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/julianmaggio)
 > [![Email](https://img.shields.io/badge/Email-hello%40julianmaggio.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@julianmaggio.com)
 
 ---
